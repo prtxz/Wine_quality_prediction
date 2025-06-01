@@ -23,3 +23,5 @@ To build and evaluate machine learning models that can predict wine quality scor
 | Random Forest (n=100)  | 0.90313  | 0.74194   | 0.50000 | 0.59740  |
 
 > 🔍 **Best Model:** Random Forest (Accuracy = 90.31%, F1 Score = 0.597)
+
+find the dataset in winequality.csv file
